@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>imagenes/Prototipos-Logo-AguaPura-A.png</file>
+    <file>imagenes/Grandes.png</file>
+    <file>imagenes/ic9-tinacos-y-cisternas.png</file>
+    <file>imagenes/rotoplas.png</file>
+    <file>imagenes/tinaco_8a.gif</file>
+  </qresource>
+</RCC>
